@@ -1,12 +1,11 @@
-<html><pre>
 The java source code for the figures in the paper:
 
 Roberts PD (2007) Stability of complex spike timing-dependent
-plasticity in cerebellar learning. J Comput Neurosci 22:283-96
+plasticity in cerebellar learning. *J Comput Neurosci* 22:283-96
 
 is available here:
 
-<a href="http://www.proberts.net/robertpa/lab/java/">http://www.proberts.net/robertpa/lab/java/</a>
+[http://www.proberts.net/robertpa/lab/java/](http://www.proberts.net/robertpa/lab/java/)
 
 From the paper:
 
@@ -18,8 +17,10 @@ synaptic efficacy due to pairing complex spikes with presynaptic
 spikes in parallel fibers and inhibitory interneurons. ..."
 
 Note that the link in the paper (shown in the name of the link)
-
-<a href="http://www.proberts.net/robertpa/lab/java/">http://www.ohsu.edu/nsi/faculty/robertpa/lab/java/</a>
+[http://www.ohsu.edu/nsi/faculty/robertpa/lab/java/](http://www.proberts.net/robertpa/lab/java/)
 is redirected here to the updated link (don't copy the name of this
 link because it is not useful, but you can click on it).
-</pre></html>
+
+---
+
+2025-06-02: Standardized to Markdown.
